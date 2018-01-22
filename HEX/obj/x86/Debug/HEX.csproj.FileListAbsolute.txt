@@ -1,0 +1,12 @@
+c:\users\jager314\documents\visual studio 2010\Projects\HEX\HEX\bin\Debug\HEX.exe
+c:\users\jager314\documents\visual studio 2010\Projects\HEX\HEX\bin\Debug\HEX.pdb
+c:\users\jager314\documents\visual studio 2010\Projects\HEX\HEX\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jager314\documents\visual studio 2010\Projects\HEX\HEX\obj\x86\Debug\HEX.Properties.Resources.resources
+c:\users\jager314\documents\visual studio 2010\Projects\HEX\HEX\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jager314\documents\visual studio 2010\Projects\HEX\HEX\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jager314\documents\visual studio 2010\Projects\HEX\HEX\obj\x86\Debug\HEX.exe
+c:\users\jager314\documents\visual studio 2010\Projects\HEX\HEX\obj\x86\Debug\HEX.pdb
+C:\Users\jager314\documents\visual studio 2010\Projects\HEX\HEX\obj\x86\Debug\HEX.Form1.resources
+C:\Users\jager314\documents\visual studio 2010\Projects\HEX\HEX\obj\x86\Debug\HEX.dm_hex.resources
+\\VBOXSVR\indeed\Projects\HEX\HEX\obj\x86\Debug\HEX.exe
+\\VBOXSVR\indeed\Projects\HEX\HEX\obj\x86\Debug\HEX.pdb
